@@ -1,0 +1,6 @@
+{
+  "id": "sample-plugin-qwik",
+  "name": "Sample Plugin (Qwik)",
+  "version": "0.1.0",
+  "entry": "index.html"
+}

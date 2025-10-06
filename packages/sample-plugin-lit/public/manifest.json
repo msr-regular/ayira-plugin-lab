@@ -1,0 +1,6 @@
+{
+  "id": "sample-plugin-lit",
+  "name": "Sample Plugin (Lit)",
+  "version": "0.1.0",
+  "entry": "index.html"
+}

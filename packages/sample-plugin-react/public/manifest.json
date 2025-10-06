@@ -1,0 +1,6 @@
+{
+  "id": "sample-plugin-react",
+  "name": "Sample Plugin (React)",
+  "version": "0.1.0",
+  "entry": "index.html"
+}

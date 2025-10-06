@@ -1,0 +1,6 @@
+{
+  "id": "sample-plugin-svelte",
+  "name": "Sample Plugin (Svelte)",
+  "version": "0.1.0",
+  "entry": "index.html"
+}

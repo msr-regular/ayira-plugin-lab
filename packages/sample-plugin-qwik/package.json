@@ -1,0 +1,22 @@
+{
+  "name": "@ayira-lab/sample-plugin-qwik",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "dependencies": {
+    "@ayira/plugin-sdk": "^0.0.3",
+    "@builder.io/qwik": "^1.11.0"
+  },
+  "devDependencies": {
+    "typescript": "~5.5.4",
+    "vite": "^6.0.3",
+    "vitest": "^2.1.6"
+  }
+}

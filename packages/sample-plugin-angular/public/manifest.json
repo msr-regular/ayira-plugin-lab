@@ -1,0 +1,6 @@
+{
+  "id": "sample-plugin-angular",
+  "name": "Sample Plugin (Angular)",
+  "version": "0.1.0",
+  "entry": "index.html"
+}

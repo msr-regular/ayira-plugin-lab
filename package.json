@@ -1,0 +1,21 @@
+{
+  "name": "ayira-plugin-lab",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "engines": {
+    "node": ">=18.17"
+  },
+  "scripts": {
+    "start": "pnpm -r --parallel run dev",
+    "build": "pnpm -r run build && node scripts/collect-dist.mjs",
+    "preview": "pnpm -r --parallel run preview",
+    "clean:packages": "pnpm -r exec rimraf dist build .output .turbo .vite coverage",
+    "clean:root": "rimraf builds",
+    "clean": "pnpm run clean:packages && pnpm run clean:root"
+
+  },
+  "devDependencies": {
+    "rimraf": "^6.0.1"
+  }
+}

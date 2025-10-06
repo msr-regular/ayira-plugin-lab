@@ -1,0 +1,6 @@
+{
+  "id": "sample-plugin-vue",
+  "name": "Sample Plugin (Vue)",
+  "version": "0.1.0",
+  "entry": "index.html"
+}

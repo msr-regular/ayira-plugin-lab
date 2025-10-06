@@ -1,0 +1,6 @@
+{
+  "id": "sample-plugin-solid",
+  "name": "Sample Plugin (Solid)",
+  "version": "0.1.0",
+  "entry": "index.html"
+}

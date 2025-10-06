@@ -1,0 +1,13 @@
+:global(body) {
+  margin: 0;
+}
+
+.container {
+  padding: 1rem;
+  font: 14px sans-serif;
+}
+
+button {
+  margin-top: 0.5rem;
+  cursor: pointer;
+}
